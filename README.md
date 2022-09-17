@@ -1,4 +1,4 @@
-#`Exerice programation React`
+# Exercice programmation React
 ## installation
 1.clone repository
 2.run npm install
